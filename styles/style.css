@@ -1,4 +1,5 @@
 body{
+    
     font-family: sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -17,6 +18,23 @@ body{
     opacity: 1;
 }
 
+
+.box_da_imagen_da_receita{
+    top: 25px;
+    left: 22px;
+    height: 374px;
+    width: 883px;
+    border: 1px solid #707070;
+}
+
+.imagen_da_receita{
+
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
 .descricao_do_titulo{
     top: 679px;
     left: 21px;
@@ -24,5 +42,6 @@ body{
     height: 197px;
 
     font-size: 21px;
-    text-align: right;
+    text-align: left;
 }
+
