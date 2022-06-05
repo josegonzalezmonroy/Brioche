@@ -20,9 +20,9 @@ body{
 }
 
 .titulo_da_receita {
-    top: 420px;
+    top: 420spx;
     left: 21px;
-    width: 844px;
+    width: 843px;
     height: 187px;
 
     font-size: 89px;
@@ -84,4 +84,8 @@ a{
 
     border: 1px solid #707070;
     opacity: 1;
+}
+
+.modo-de-preparo, .outras-receitas{
+    width: 883px;
 }
