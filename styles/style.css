@@ -14,7 +14,7 @@ body {
 .imagen_da_receita {
     object-fit: cover;
     height: 100%;
-    width: 1%;
+    width: 100%;
     border-radius: 15px;
 }
 
